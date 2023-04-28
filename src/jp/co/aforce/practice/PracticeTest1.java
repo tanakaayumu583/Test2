@@ -14,7 +14,7 @@ public class PracticeTest1 {
 		System.out.println("○練習問題3");
 		
 		int x = 11;
-		System.out.println("x = "+x);
+		System.out.println("x = "+ x);
 		
 		System.out.println("");
 //		練習問題4
